@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data><student name="John"><id>100</id><rank>33</rank><year>2018</year><colour>"Blue"</colour></student><student name="Sinha"><id>400</id><rank>4</rank><year>2018</year><colour>"Green"</colour></student><student name="Gemmy"><id>122</id><rank>23</rank><year>2017</year><colour>"Purple"</colour></student><student name="Nick"><id>102</id><rank>13</rank><year>2017</year><colour>"Yellow"</colour></student></data>
